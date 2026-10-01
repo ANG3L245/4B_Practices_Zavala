@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="_LVVBhIEEzWpDv63mH8T" name="Page-1">
+        <mxGraphModel dx="802" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="uI4yyYEs2PHtp-iOJWN1-21" edge="1" parent="1" source="uI4yyYEs2PHtp-iOJWN1-8" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uI4yyYEs2PHtp-iOJWN1-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uI4yyYEs2PHtp-iOJWN1-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Contador 1" vertex="1">
+                    <mxGeometry height="120" width="60" x="180" y="-440" as="geometry"/>
+                </mxCell>
+                <mxCell id="uI4yyYEs2PHtp-iOJWN1-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Generar reportes de ingresos diarios/ mensuales" vertex="1">
+                    <mxGeometry height="80" width="120" x="320" y="-420" as="geometry"/>
+                </mxCell>
+                <mxCell id="uI4yyYEs2PHtp-iOJWN1-17" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Contador 2" vertex="1">
+                    <mxGeometry height="120" width="60" x="520" y="-350" as="geometry"/>
+                </mxCell>
+                <mxCell id="uI4yyYEs2PHtp-iOJWN1-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consultar historial de pagos" vertex="1">
+                    <mxGeometry height="80" width="120" x="320" y="-320" as="geometry"/>
+                </mxCell>
+                <mxCell id="uI4yyYEs2PHtp-iOJWN1-26" edge="1" parent="1" source="uI4yyYEs2PHtp-iOJWN1-17" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" target="uI4yyYEs2PHtp-iOJWN1-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pDkAz35huaLzJ4OVUdVN-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Finanzas y Reportes&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="70" width="340" x="210" y="-530" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
